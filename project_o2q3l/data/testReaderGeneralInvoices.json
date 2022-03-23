@@ -1,0 +1,14 @@
+{"invoices": [
+  {
+    "date": "2021,03,23",
+    "amount": 100,
+    "id": "a1",
+    "type": "Tutoring"
+  },
+  {
+    "date": "2020,04,21",
+    "amount": 9999,
+    "id": "b1",
+    "type": "Web Designing"
+  }
+]}
