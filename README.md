@@ -1,4 +1,4 @@
-# CPSC 210: Personal Project of Chun Pang Wong
+# Personal Project of Chun Pang Wong
 
 ## Application that determines the eligibility for the Canada Recovery Benefit (CRB) during the COVID-19 Pandemic
 
