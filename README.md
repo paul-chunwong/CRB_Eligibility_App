@@ -30,6 +30,11 @@
   needs to apply for CRB regularly, and it will be super helpful if we can have an application that can manage our
   incomes and different status so that we can easily determine the eligibility of the funding instead of calculating the
   income requirement every month.
+  
+*What are the techniques used in this project?*
+
+- Java, IntelliJ IDEA, OOP, Java Swing, Json, EventLog, Junit Test with Code Coverage 94.8%
+
 
 ## User Stories
 
